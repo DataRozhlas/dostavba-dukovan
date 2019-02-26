@@ -1,1 +1,10 @@
-/* styly ve složce styles/ se zakompliují automaticky */
+.highcharts-tooltip>span {
+	background: rgba(255, 255, 255, 0.85);
+	padding: 10px;
+	width: 300px;
+	font-size: 11px;
+	margin-bottom: 11px;
+	word-wrap: break-word !important;
+	white-space: normal !important;
+	text-align: justify;
+}
