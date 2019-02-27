@@ -16,11 +16,11 @@ Kdo prosazuje dostavbu jaderných bloků v Dukovanech a kdo je proti? Zmapovali 
 
 „Úplně přitom chybí diskuze nad nutností dostavby jako takové – v drtivé většině textů se již automaticky počítá s vypsáním tendru a rozebírají se pouze jednotlivé investorské modely. Rozhodování o variantě financování bez adekvátní diskuze o samotné nutnosti výstavby kritizují pouze ekologové,“ upozorňují autoři studie.
 
-Citace ekologů podle analytiků tvoří 11 procent debaty o dostavbě, názory menšinových akcionářů ČEZu kolem čtyř procent. Dvě třetiny citací se věnují průběhu a financování tendru na dostavbu, případně možnosti prodloužení životnosti současných reaktorů.
+Citace ekologů, včetně rakouských odpůrců jádra, podle analytiků tvoří šest procent debaty o dostavbě, názory menšinových akcionářů ČEZu kolem pěti procent. Dvě třetiny citací se věnují průběhu a financování tendru na dostavbu, případně možnosti prodloužení životnosti současných reaktorů.
 
 V grafu autoři studie ukazují, jakou pozici zastávají klíčoví hráči. Umístění na vodorovné ose říká, kdo má stavbu zaplatit: vlevo jsou zastánci tvrzení, že stavět má ČEZ, vpravo ti, podle kterých má platit stát. Svislá osa zase říká, kdy se má podle jednotlivých aktérů s dostavbou začít. Velikost bubliny označuje mediální dosah jejich citací. Po najetí myší na jméno si můžete přečíst krátké textové shrnutí, jaké názory daný politik nebo expert zastává.
 
-<wide><div id="container" style="min-width: 320px; max-width: 900px; height: 900px; margin: 0 auto;"></div></wide>
+<wide><div id="container" style="width: 900px; height: 900px; margin: 0 auto;"></div></wide>
 
 _Metodika: Do analýzy bylo zahrnuto 1066 mediálních výstupů s 2426 citacemi konkrétních aktérů, které vrátilo vyhledávání klíčových výrazů „Dukovany + Stavba“ v monitoringu médií_ Monitora.cz. _Při kódování byly z výběru vyřazeny příspěvky, které se netýkaly přímo dostavby, nejčastěji články o výběru lokace úložiště jaderného
 odpadu._

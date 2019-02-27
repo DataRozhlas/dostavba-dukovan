@@ -8,3 +8,19 @@
 	white-space: normal !important;
 	text-align: justify;
 }
+
+h2.container-dtp {
+    font-size: 18px !important;
+}
+
+h3.container-dtp {
+    font-size: 14px !important;
+}
+
+h2.container-mob {
+    font-size: 14px !important;
+}
+
+h3.container-mob {
+    font-size: 12px !important;
+}
