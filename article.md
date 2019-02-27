@@ -8,13 +8,15 @@ libraries: [jquery, highcharts, "https://code.highcharts.com/highcharts-more.js"
 options: [] #wide, noheader (, nopic)
 ---
 
-Kdo prosazuje dostavbu jaderných bloků v Dukovanech a kdo je proti? Zmapovali to analytici think-tanku Institut pro politiku a společnost. Přes monitoring médií sledovali, kdo se loni k tématu vyjadřoval.
+Kdo prosazuje dostavbu jaderných bloků v Dukovanech a kdo je proti? Zmapovali to analytici think-tanku The Prague Security Studies Institute (PSSI). Přes monitoring médií sledovali, kdo se loni k tématu vyjadřoval.
 
 „Premiér Andrej Babiš opakovaně navrhl variantu, kdy by ČEZ ze svých peněz financoval dostavbu a stát by mohl sloužit pouze jako ručitel druhý v pořadí. Tomu se brání vedení ČEZ, neboť dostavba jednoho reaktoru by vyšla na více než 150 miliard Kč. Zároveň při výběru tohoto investorského modelu existuje riziko, že by se stavba výrazně zdržela kvůli žalobám minoritních akcionářů, vlastnících 30 procent akcií ČEZu, kteří s takto financovanou dostavbou Dukovan nesouhlasí,“ upozorňují spoluautoři analýzy Jonáš Syrovátka a Filip Lukáš.
 
 „Proti výstavbě se v médiích staví pouze minoritní akcionář ČEZ, energetický analytik a poradce skupiny J&T Michal Šnobr,“ dodávají. „Podle něj je dostavba ekonomicky nevýhodná a možná i protiprávní z důvodu cíleně zvolené nerentabilní investice.“
 
 „Úplně přitom chybí diskuze nad nutností dostavby jako takové – v drtivé většině textů se již automaticky počítá s vypsáním tendru a rozebírají se pouze jednotlivé investorské modely. Rozhodování o variantě financování bez adekvátní diskuze o samotné nutnosti výstavby kritizují pouze ekologové,“ upozorňují autoři studie.
+
+Citace ekologů podle analytiků tvoří 11 procent debaty o dostavbě, názory menšinových akcionářů ČEZu kolem čtyř procent. Dvě třetiny citací se věnují průběhu a financování tendru na dostavbu, případně možnosti prodloužení životnosti současných reaktorů.
 
 V grafu autoři studie ukazují, jakou pozici zastávají klíčoví hráči. Umístění na vodorovné ose říká, kdo má stavbu zaplatit: vlevo jsou zastánci tvrzení, že stavět má ČEZ, vpravo ti, podle kterých má platit stát. Svislá osa zase říká, kdy se má podle jednotlivých aktérů s dostavbou začít. Velikost bubliny označuje mediální dosah jejich citací. Po najetí myší na jméno si můžete přečíst krátké textové shrnutí, jaké názory daný politik nebo expert zastává.
 
@@ -64,4 +66,4 @@ Navzdory shodě se podle nich Česko rozhodnutí o stavbě reaktorů příliš n
 
 Nejnověji plánuje premiér Andrej Babiš svěřit stavbu reaktorů dceřiné společnosti ČEZu _Dukovany II_, která má být založena pro tento účel. Minulý týden na parlamentní konferenci, věnované tomuto tématu, prohlásil, že s dceřinou společností _Dukovany II_ uzavře speciální smlouvu namísto poskytnutí státní garance. Tato smlouva by umožnila státu firmu kontrolovat a při změnách na trhu i převzít výstavbu.
 
-„Definitivní rozhodnutí o investičním modelu dostavby by mělo dle nejnovějších informací padnout do konce dubna,“ shrnují nejnovější vývoj analytici Institutu pro politiku a společnost. „Po zkušenostech z minulého roku je ovšem obtížné jakkoliv předvídat budoucí vývoj.“
+„Definitivní rozhodnutí o investičním modelu dostavby by mělo dle nejnovějších informací padnout do konce dubna,“ shrnují nejnovější vývoj analytici PSSI. „Po zkušenostech z minulého roku je ovšem obtížné jakkoliv předvídat budoucí vývoj.“
